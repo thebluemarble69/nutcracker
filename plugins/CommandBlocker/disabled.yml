@@ -1,0 +1,223 @@
+# Allows you set your own disabled commands! :D
+# There are many placeholders and you can use PlaceholderAPI
+# 
+# Make a command only disabled in some worlds by doing:
+DisabledCommands:
+  Plugins:
+    Message: '&l&aTanay&e&lSMP&f>Unknown command.'
+    Permission: cb.allow.plugins
+    WhitelistedPlayers:
+    - 49059600-26d6-45ac-8b43-86a14f7d96ac
+    Worlds:
+    - all
+    NoTabComplete: true
+  Pl:
+    Message: '&a&lTanay&e&lSMP&f>Unknown command.'
+    Permission: cb.allow.plugins
+    Worlds:
+    - all
+    NoTabComplete: true
+  Bukkit:plugins:
+    Message: '&eUnknown command.'
+    Permission: cb.allow.plugins
+    Worlds:
+    - all
+    NoTabComplete: true
+  Bukkit:pl:
+    Message: '&eUnknown command.'
+    Permission: cb.allow.plugins
+    Worlds:
+    - all
+    NoTabComplete: true
+  Help:
+    Message: '&eUnknown command.'
+    Permission: cb.allow.help
+    Worlds:
+    - all
+    NoTabComplete: true
+  '?':
+    Message: '&eUnknown command.'
+    Permission: cb.allow.help
+    Worlds:
+    - all
+    NoTabComplete: true
+  Bukkit:help:
+    Message: '&eUnknown command.'
+    Permission: cb.allow.help
+    Worlds:
+    - all
+    NoTabComplete: true
+  Bukkit:?:
+    Message: '&eUnknown command.'
+    Permission: cb.allow.help
+    Worlds:
+    - all
+    NoTabComplete: true
+  Version:
+    Message: '&eUnknown command.'
+    Permission: cb.allow.version
+    Worlds:
+    - all
+    NoTabComplete: true
+  Ver:
+    Message: '&eUnknown command.'
+    Permission: cb.allow.version
+    Worlds:
+    - all
+    NoTabComplete: true
+  Icanhasbukkit:
+    Message: '&eUnknown command.'
+    Permission: cb.allow.version
+    Worlds:
+    - all
+    NoTabComplete: true
+  Bukkit:ver:
+    Message: '&eUnknown command.'
+    Permission: cb.allow.version
+    Worlds:
+    - all
+    NoTabComplete: true
+  Bukkit:version:
+    Message: '&eUnknown command.'
+    Permission: cb.allow.version
+    Worlds:
+    - all
+    NoTabComplete: true
+  About:
+    Message: '&eUnknown command.'
+    Permission: cb.allow.version
+    Worlds:
+    - all
+    NoTabComplete: true
+  Bukkit:about:
+    Message: '&eUnknown command.'
+    Permission: cb.allow.version
+    Worlds:
+    - all
+    NoTabComplete: true
+  Me:
+    Message: '&eUnknown command.'
+    Permission: cb.allow.me
+    NoTabComplete: true
+  Minecraft:me:
+    Message: '&eUnknown command.'
+    Permission: cb.allow.me
+    NoTabComplete: true
+  Reload:
+    Message: '&eUnknown command.'
+    Permission: cb.allow.reload
+    NoTabComplete: true
+  Rl:
+    Message: '&eUnknown command.'
+    Permission: cb.allow.reload
+    NoTabComplete: true
+  Bukkit:rl:
+    Message: '&eUnknown command.'
+    Permission: cb.allow.reload
+    NoTabComplete: true
+  Bukkit:reload:
+    Message: '&eUnknown command.'
+    Permission: cb.allow.reload
+    NoTabComplete: true
+  Restart:
+    Message: '&eUnknown command.'
+    Permission: cb.allow.restart
+    NoTabComplete: true
+  Stop:
+    Message: '&eUnknown command.'
+    Permission: cb.allow.stop
+    NoTabComplete: true
+  Op:
+    Message: '&eUnknown command.'
+    Permission: cb.allow.op
+    NoTabComplete: true
+  Minecraft:op:
+    Message: '&eUnknown command.'
+    Permission: cb.allow.op
+    NoTabComplete: true
+  Deop:
+    Message: '&eUnknown command.'
+    Permission: cb.allow.deop
+    NoTabComplete: true
+  Minecraft:deop:
+    Message: '&eUnknown command.'
+    Permission: cb.allow.deop
+    NoTabComplete: true
+  Fly:
+    Permission: cb.allow.fly
+    Message: '&aTanay&eSMP&f>>Unknown command.'
+    Worlds:
+    - world
+    NoTabComplete: true
+  Gg:
+    Permission: cb.allow.gg
+    Message: '&l&aTanay&e&lSMP&f>>Unknown command.'
+    NoTabComplete: true
+  Perm:
+    Permission: cb.allow.perm
+    Message: '&l&aTanay&e&lSMP&f>>Unknown command.'
+    Worlds:
+    - world
+    NoTabComplete: true
+  Nte:
+    Permission: cb.allow.nte
+    Message: '&l&aTanay&e&lSMP&f>>Unknown command.'
+    Worlds:
+    - world
+    NoTabComplete: true
+  Ne:
+    Permission: cb.allow.ne
+    Message: '&l&aTanay&e&lSMP&f>>Unknown command.'
+    Worlds:
+    - world
+    NoTabComplete: true
+  Papi:
+    Permission: cb.allow.papi
+    Message: '&l&aTanay&e&lSMP&f>>Unknown command.'
+    Worlds:
+    - world
+    NoTabComplete: true
+  Placeholderapi:
+    Permission: cb.allow.placeholderapi
+    Message: '&l&aTanay&e&lSMP&f>>Unknown command.'
+    Worlds:
+    - world
+    NoTabComplete: true
+  Cb:
+    Permission: cb.allow.cb
+    Message: '&l&aTanay&e&lSMP&f>>Unknown command.'
+    Worlds:
+    - world
+    NoTabComplete: true
+  Commandblock:
+    Permission: cb.allow.commandblock
+    Message: '&l&aTanay&e&lSMP&f>>Unknown command.'
+    Worlds:
+    - world
+    NoTabComplete: true
+  Commandblocker:
+    Permission: cb.allow.commandblocker
+    Message: '&l&aTanay&e&lSMP&f>>Unknown command.'
+    Worlds:
+    - world
+    NoTabComplete: true
+  Bedwars:
+    Permission: cb.allow.bedwars
+    Message: '&a&lTanay&e&lSMP&f>>Unknown command.'
+    Worlds:
+    - world
+    NoTabComplete: true
+  Bedwars1058:
+    Permission: cb.allow.bedwars1058
+    Message: '&l&aTanay&e&lSMP&f>>Unknown command.'
+    Worlds:
+    - world
+    NoTabComplete: true
+  Nametagedit:
+    Permission: cb.allow.nametagedit
+    Message: '&a&lTanay&e&lSMP&f>>Unknown command.'
+    Worlds:
+    - world
+    - lighthouse
+    - inca
+    NoTabComplete: true

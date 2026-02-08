@@ -1,0 +1,172 @@
+# Citizens NPC Storage
+
+
+
+last-created-npc-id: 4
+npc:
+  '4':
+    name: '&a&lBedwars &eDoubles'
+    uuid: 3ccb980f-e3b1-4698-ade2-dbbe61785059
+    traits:
+      location:
+        bodyYaw: -61.459198
+        world: world
+        x: '-2.4764'
+        y: '68.0'
+        z: '5.5288'
+        yaw: '-61.4592'
+        pitch: '5.9436'
+      inventory: {}
+      lookclose:
+        range: '10.0'
+        disablewhilenavigating: true
+        enabled: true
+        enableRandomLook: false
+        headonly: false
+        linkedbody: false
+        perplayer: false
+        randomLookDelay: 60
+        randomSwitchTargets: false
+        realisticlooking: false
+        targetnpcs: false
+        randomPitchRange:
+          '0': 0.0
+          '1': 0.0
+        randomYawRange:
+          '0': 0.0
+          '1': 360.0
+      type: PLAYER
+      spawned: true
+      hologramtrait:
+        lineHeight: -1.0
+        viewRange: -1
+      skintrait:
+        fetchDefaultSkin: false
+        updateSkins: false
+        signature: PqqUSE1ufGAoG+UTzRc83V77RrPNoldnKfQ7thXXSQ4H4lBUShEkYN15vePFi7dcHb/kGaUQMYjddsZfiCCZfRTntCOdriuFT0Vrx5/UETQu2+hQkcLkJKSb+CPletMmRCYqauAc071VVexw45kw9Byabh+l5IXCeOGN6ro4SvcbSOCEJQgwDmCzUamaZiFdHJpvjKscD6sTvW44e8+x4NwFcNPR58eCtZXaSuWDYDy+GSp0QdI60Sec5/Me6l4hD2h6ToTyAyXEzHdF2pv2m2P+6yLriZMMMWDaUbWOHA25R5MbUzTkXwBMhKRD8ZOKojuOmOGJKP2hretAjCxNnoNf6sb/EDDRwNcO0u3fRUyJpQSRg8caODbKsKWkc89fBSEMZShkhyDVXNh4mxJ6Io+jJnm4IsxZzfRThRRxSg2Te6NXscLMd1Ut2EQn11UD94boTI1yn55LQAEF2g9Mg7VdMB2QXhV5tJTDK6jn8zNiUw8gCoE4GikNLN1B7DwzXXS1HEjm9tAa4B9SYDUctPDmCH7CyIvusr03PpUtLJtvbhYfb4zwul16pL9wNN9A1/loRJ7KUmF8WDwpptitOS6ZLURFdEDVVXh8ur5fk94e0eky7t0GoY0f9P7Mt2vjdFlW9stygihg77NPjkVxMGDzeBW3bmAYpsuihJxtYkQ=
+        skinName: d70d0514-c0e4-494c-9995-1fdd4a87d72b
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTcwMzM5NjA0ODMwMywKICAicHJvZmlsZUlkIiA6ICI0YjBhOTI4NDY2NDY0NmRlYjY5NDJiZTIzZTlhMWQyZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJJc2FhY0FsdCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jM2ZjOGMxNGNiOWNlNmJmMjk5YTYxM2EwMWM1N2U5YTEwODQ0NTVmNjgwNWE4ZGM5YWI3OTIzOTJiODEwMGIwIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=
+      commandtrait:
+        cost: -1.0
+        executionMode: LINEAR
+        experienceCost: -1
+        hideErrorMessages: false
+        persistSequence: false
+        commands:
+          '0':
+            command: bw gui Doubles
+            hand: RIGHT
+            player: true
+            op: false
+            cooldown: 0
+            globalcooldown: 0
+            n: -1
+            delay: 0
+            cost: '-1.0'
+            experienceCost: -1
+          '1':
+            command: bw gui Doubles
+            hand: LEFT
+            player: true
+            op: false
+            cooldown: 0
+            globalcooldown: 0
+            n: -1
+            delay: 0
+            cost: '-1.0'
+            experienceCost: -1
+      rotationtrait:
+        globalParameters: {}
+      scoreboardtrait: {}
+      owner:
+        uuid: 28f8b810-2600-31ce-8e55-da2165913044
+    traitnames: location,inventory,lookclose,commandtrait,mounttrait,skintrait,spawned,scoreboardtrait,hologramtrait,owner,rotationtrait,type
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: false
+    metadata:
+      cached-skin-uuid-name: d70d0514-c0e4-494c-9995-1fdd4a87d72b
+  '3':
+    name: '&a&lBedwars &bSolos'
+    uuid: 1c4eacd1-13e8-4316-954a-e9e7e7efb896
+    traits:
+      location:
+        bodyYaw: 86.49844
+        world: world
+        x: '-2.4703'
+        y: '68.0'
+        z: '-4.5325'
+        yaw: '86.4984'
+        pitch: '-1.0116'
+      inventory: {}
+      lookclose:
+        range: '10.0'
+        disablewhilenavigating: true
+        enabled: true
+        enableRandomLook: false
+        headonly: false
+        linkedbody: false
+        perplayer: false
+        randomLookDelay: 60
+        randomSwitchTargets: false
+        realisticlooking: false
+        targetnpcs: false
+        randomPitchRange:
+          '0': 0.0
+          '1': 0.0
+        randomYawRange:
+          '0': 0.0
+          '1': 360.0
+      type: PLAYER
+      spawned: true
+      hologramtrait:
+        lineHeight: -1.0
+        viewRange: -1
+      skintrait:
+        fetchDefaultSkin: false
+        updateSkins: false
+        skinName: d70d0514-c0e4-494c-9995-1fdd4a87d72b
+        signature: PqqUSE1ufGAoG+UTzRc83V77RrPNoldnKfQ7thXXSQ4H4lBUShEkYN15vePFi7dcHb/kGaUQMYjddsZfiCCZfRTntCOdriuFT0Vrx5/UETQu2+hQkcLkJKSb+CPletMmRCYqauAc071VVexw45kw9Byabh+l5IXCeOGN6ro4SvcbSOCEJQgwDmCzUamaZiFdHJpvjKscD6sTvW44e8+x4NwFcNPR58eCtZXaSuWDYDy+GSp0QdI60Sec5/Me6l4hD2h6ToTyAyXEzHdF2pv2m2P+6yLriZMMMWDaUbWOHA25R5MbUzTkXwBMhKRD8ZOKojuOmOGJKP2hretAjCxNnoNf6sb/EDDRwNcO0u3fRUyJpQSRg8caODbKsKWkc89fBSEMZShkhyDVXNh4mxJ6Io+jJnm4IsxZzfRThRRxSg2Te6NXscLMd1Ut2EQn11UD94boTI1yn55LQAEF2g9Mg7VdMB2QXhV5tJTDK6jn8zNiUw8gCoE4GikNLN1B7DwzXXS1HEjm9tAa4B9SYDUctPDmCH7CyIvusr03PpUtLJtvbhYfb4zwul16pL9wNN9A1/loRJ7KUmF8WDwpptitOS6ZLURFdEDVVXh8ur5fk94e0eky7t0GoY0f9P7Mt2vjdFlW9stygihg77NPjkVxMGDzeBW3bmAYpsuihJxtYkQ=
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTcwMzM5NjA0ODMwMywKICAicHJvZmlsZUlkIiA6ICI0YjBhOTI4NDY2NDY0NmRlYjY5NDJiZTIzZTlhMWQyZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJJc2FhY0FsdCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jM2ZjOGMxNGNiOWNlNmJmMjk5YTYxM2EwMWM1N2U5YTEwODQ0NTVmNjgwNWE4ZGM5YWI3OTIzOTJiODEwMGIwIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=
+      commandtrait:
+        cost: -1.0
+        executionMode: LINEAR
+        experienceCost: -1
+        hideErrorMessages: false
+        persistSequence: false
+        commands:
+          '0':
+            command: bw gui Solo
+            hand: RIGHT
+            player: true
+            op: false
+            cooldown: 0
+            globalcooldown: 0
+            n: -1
+            delay: 0
+            cost: '-1.0'
+            experienceCost: -1
+          '1':
+            command: bw gui Solo
+            hand: LEFT
+            player: true
+            op: false
+            cooldown: 0
+            globalcooldown: 0
+            n: -1
+            delay: 0
+            cost: '-1.0'
+            experienceCost: -1
+      rotationtrait:
+        globalParameters: {}
+      scoreboardtrait: {}
+      owner:
+        uuid: 28f8b810-2600-31ce-8e55-da2165913044
+    traitnames: location,inventory,lookclose,commandtrait,mounttrait,skintrait,spawned,scoreboardtrait,hologramtrait,rotationtrait,owner,type
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: false
+    metadata:
+      cached-skin-uuid-name: d70d0514-c0e4-494c-9995-1fdd4a87d72b
